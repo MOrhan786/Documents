@@ -1,0 +1,81 @@
+My Current Tech Stack Knowledge Tree
+
+
+├── Language
+│   ├── JavaScript
+│   ├── TypeScript
+│   └── Python
+│
+├── Frontend
+│   └── Next.js
+│
+├── Backend
+│   ├── Node.js
+│   │   └── Express.js
+│   │       ├── CommonJS module system (require)
+│   │       ├── MVC architecture (separation of concerns)
+│   │       │   ├── .env
+│   │       │   ├── .gitignore
+│   │       │   ├── docker-compose.yaml
+│   │       │   ├── drizzle.config.js
+│   │       │   ├── index.js
+│   │       │   ├── package-lock.json
+│   │       │   ├── package.json
+│   │       │   ├── controllers/
+│   │       │   │   └── user.controller.js
+│   │       │   ├── db/
+│   │       │   │   └── connection.js
+│   │       │   ├── drizzle/
+│   │       │   ├── middlewares/
+│   │       │   │   ├── rateLimit.middleware.js
+│   │       │   │   ├── sessionCheck.middleware.js
+│   │       │   │   └── user.validation.middleware.js
+│   │       │   ├── model/
+│   │       │   │   └── user.model.js
+│   │       │   ├── routes/
+│   │       │   │   └── user.routes.js
+│   │       │   ├── validators/
+│   │       │   │   └── user.validationSchema.js
+│   │       │   └── view/
+│   │       │       └── index.html
+│   │       ├── Caching (node-cache)
+│   │       ├── API Pagination
+│   │       ├── API Versioning
+│   │       ├── Rate Limiting (express-rate-limit)
+│   │       ├── Password hashing (bcrypt)
+│   │       └── Cookie management (cookie-parser)
+│   │
+│   └── FastAPI
+│
+├── Database
+│   └── PostgreSQL
+│   |   ├── Drizzle ORM
+│   |   └── Dockerized setup
+│   |
+│   └── MongoDb
+│       ├── mongoose ORM
+│       └── Atlas
+│
+├── Validation
+│   └── Zod
+│
+├── Containerization
+│   └── Docker Desktop
+│
+├── AI API Integration
+│   ├── OpenAI API (Python)
+│   └── OpenAI API (JavaScript)
+│
+├── Agentic AI Framework
+│   └── OpenAI Agent SDK (Python)
+│       └── Based on March 2025 documentation
+│
+|-- Python Package Manager
+|   |-- uv (https://github.com/astral-sh/uv)
+|       |-- uv init (initialize a uv project)
+|       |-- uv add (add a package)
+|       |-- uv run (run a specific file)
+
+
+
+
