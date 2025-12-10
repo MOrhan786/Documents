@@ -1,3 +1,6 @@
+https://www.youtube.com/watch?v=2wqvXZ-wlw8
+
+
 # How to Use Claude Code with Qwen Models for Free
 
 ## ⭐ Requirements  
