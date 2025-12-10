@@ -1,0 +1,8 @@
+mcpcontext7 ko folder m add krny ki command
+claude mcp add --transport stdio context7 npx @upstash/context7-mcp
+  // =====================================
+  
+  ager chechck krna h k conecct hoi h k nai 
+claude mcp list
+
+// ----------------------------------
